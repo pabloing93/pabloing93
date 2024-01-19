@@ -1,3 +1,7 @@
+<h1 style="margin: 10px 0px">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=000000&vCenter=true&width=500&height=70&duration=4000&pause=2000&lines=Data+Scientist+🤓" />
+</h1>
+
 # 💫 About Me:
 I'm currently developing my hard skills by working on challenging projects to gain experience and demonstrate my skills as a Data Scientist.<br>I enjoy working with a variety of knowledge professionals on projects, so...<br>ask me about for teamwork challenges. <br>Here is a demonstration of my habilities in my current projects. <br>I hope I can help you with one.<br><br>Regards!
 
