@@ -29,7 +29,7 @@ I'm currently developing my hard skills by working on challenging projects to ga
 <a href="https://github.com/pabloing93/book-recommendations-engine" target="_blank"><img src="https://github.com/pabloing93/pabloing93/assets/32267303/899e2dcd-f498-42fa-a414-ced18f389359" width="100%" alt="Curso básico android"></a>
 <p align="justify">Sistema de recomendación de libros personalizada y automatizada basado en el análisis del comportamiento de los usuarios y desarrollado con algoritmos de clustering de Machine Learning con Python. Con el objetivo de mejorar la experiencia de usuario y el impacto del negocio.</p>
 <a href="https://github.com/pabloing93/book-recommendations-engine" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>                                                            
 </td>
@@ -40,7 +40,7 @@ I'm currently developing my hard skills by working on challenging projects to ga
 <p align="justify">En éste proyecto el objetivo es poder determinar el riesgo crediticio a la hora de otorgar préstamos a clientes de un banco alemán y automatizar este proceso para implementarlo en un entorno productivo. Para ello utilizamos algoritmos de Machine Learning de clasificación en Python.</p>
 </div>                                                             
 <a href="https://github.com/pabloing93/credit-scoring-prediction" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </table>                    
 
