@@ -36,7 +36,7 @@ I'm currently developing my hard skills by working on challenging projects to ga
 <td width="50%">
 <h3>Análisis de riesgo 💲</h3>
 <div>                                       
-<a href="https://github.com/pabloing93/credit-scoring-prediction" target="_blank"><img src="https://github.com/pabloing93/pabloing93/assets/32267303/162c3202-1d88-4468-9936-5d79c6f18756" width="100%" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/pabloing93/credit-scoring-prediction" target="_blank"><img src="https://github.com/pabloing93/pabloing93/assets/32267303/b63d9a4f-5812-4807-848d-cb7a5cd37c35" width="100%" alt="Curso arquitectura MVVM"></a>
 <p align="justify">En éste proyecto el objetivo es poder determinar el riesgo crediticio a la hora de otorgar préstamos a clientes de un banco alemán y automatizar este proceso para implementarlo en un entorno productivo. Para ello utilizamos algoritmos de Machine Learning de clasificación en Python.</p>
 </div>                                                             
 <a href="https://github.com/pabloing93/credit-scoring-prediction" target="_blank">
