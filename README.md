@@ -26,7 +26,7 @@ I'm currently developing my hard skills by working on challenging projects to ga
 <td width="50%">
 <h3>Motor de recomendación 📚</h3>
 <div>
-<a href="https://github.com/pabloing93/book-recommendations-engine" target="_blank"><img src="https://github.com/pabloing93/pabloing93/assets/32267303/899e2dcd-f498-42fa-a414-ced18f389359" width="100%" height="282px" alt="Curso básico android"></a>
+<a href="https://github.com/pabloing93/book-recommendations-engine" target="_blank"><img src="https://github.com/pabloing93/pabloing93/assets/32267303/899e2dcd-f498-42fa-a414-ced18f389359" width="100%" alt="Curso básico android"></a>
 <p align="justify">Sistema de recomendación de libros personalizada y automatizada basado en el análisis del comportamiento de los usuarios y desarrollado con algoritmos de clustering de Machine Learning con Python. Con el objetivo de mejorar la experiencia de usuario y el impacto del negocio.</p>
 <a href="https://github.com/pabloing93/book-recommendations-engine" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
