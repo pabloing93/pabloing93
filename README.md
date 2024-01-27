@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<br>
+<br><br>
 I'm currently developing my hard skills by working on challenging projects to gain experience and demonstrate my skills as a Data Scientist.<br>I enjoy working with a variety of knowledge professionals on projects, so...<br>ask me about for teamwork challenges. <br>Here is a demonstration of my habilities in my current projects. <br>I hope I can help you with one.<br><br>Regards!
 
 
