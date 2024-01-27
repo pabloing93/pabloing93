@@ -5,7 +5,6 @@
 # 💫 About Me:
 I'm currently developing my hard skills by working on challenging projects to gain experience and demonstrate my skills as a Data Scientist.<br>I enjoy working with a variety of knowledge professionals on projects, so...<br>ask me about for teamwork challenges. <br>Here is a demonstration of my habilities in my current projects. <br>I hope I can help you with one.<br><br>Regards!
 
-<h3>Take a look at my <a href="https://github.com/pabloing93?tab=repositories" alt="_blank">portfolio</a> 👀</h3>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
