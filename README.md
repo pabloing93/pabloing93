@@ -2,9 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&vCenter=true&width=500&height=70&duration=4000&pause=3000&lines=Data+Scientist+🤓" />
 </h1>
 
-# 💫 About Me:
+#  About Me:
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<br><br>
+<br>
 I'm currently developing my hard skills by working on challenging projects to gain experience and demonstrate my skills as a Data Scientist.<br>I enjoy working with a variety of knowledge professionals on projects, so...<br>ask me about for teamwork challenges. <br>Here is a demonstration of my habilities in my current projects. <br>I hope I can help you with one.<br><br>Regards!
 
 
@@ -20,7 +20,7 @@ I'm currently developing my hard skills by working on challenging projects to ga
  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 
 
- ## 🥇 TOP Projects
+# 🥇 TOP Projects
 
 <table>
 <tr>
