@@ -41,6 +41,27 @@ I'm currently developing my hard skills by working on challenging projects to ga
 <a href="https://github.com/pabloing93/credit-scoring-prediction" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
+<tr>
+<td width="50%">
+<h3>Predicción de demanda 💹</h3>
+<div>
+<a href="https://github.com/pabloing93/bank-suscribes-predictions" target="_blank"><img src="https://github.com/pabloing93/pabloing93/assets/32267303/7c061947-e057-491c-b5b8-58e5e33652ac" width="100%" alt="Curso básico android"></a>
+<p align="justify">El área de marketing de un banco requiere predecir la demanda de su servicio de depósito de dinero a plazo. Quiénes de sus clientes están interesados incluso antes de establecer el contacto. Con esto podemos lograr ofrecer el servicio más adecuado para cada cliente de manera predictiva y automatizada.</p>
+<a href="https://github.com/pabloing93/bank-suscribes-predictions" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-FC911C?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</div>                                                            
+</td>
+<td width="50%">
+<h3>Bot de trading 🤖</h3>
+<div>                                       
+<a href="https://github.com/pabloing93/Trading-Robot" target="_blank"><img src="https://github.com/pabloing93/pabloing93/assets/32267303/b331ea4a-3e22-46a0-adce-c9f8d80e4398" width="100%" alt="Curso arquitectura MVVM"></a>
+<p align="justify">Bot de inversiones en Bitcoin desarrollado con Python, Pandas, APIs y otras librerías. Utilizamos web scraping para obtener información y algoritmos de trading y estadística descriptiva para apoyar la toma de decisiones de compra o venta de criptomonedas el objetivo de generar ganancias.</p>
+</div>                                                             
+<a href="https://github.com/pabloing93/Trading-Robot" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-1A3467?style=for-the-badge&logo=github&logoColor=white">
+</a>
+    
 </table>                    
 
 
