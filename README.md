@@ -38,7 +38,7 @@ I'm currently developing my hard skills by working on challenging projects to ga
 <h3>Risk analysis 💲</h3>
 <div>                                       
 <a href="https://github.com/pabloing93/credit-scoring-prediction" target="_blank"><img src="https://github.com/pabloing93/pabloing93/assets/32267303/b63d9a4f-5812-4807-848d-cb7a5cd37c35" width="100%" alt="Curso arquitectura MVVM"></a>
-<p align="justify">Our main goal is to analyze the customer loan risk and automize these tasks in a productive environment before giving them the approval using classification machine learning algorithms to improve profits.</p>
+<p align="justify">Our main goal is to improve bank profits by analyzing the customer loan risk and automize these tasks in a productive environment before giving them the credit approval, using classification machine learning algorithms.</p>
 </div>                                                             
 <a href="https://github.com/pabloing93/credit-scoring-prediction" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
