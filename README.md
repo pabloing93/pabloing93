@@ -45,10 +45,10 @@ I'm currently developing my hard skills by working on challenging projects to ga
 </a>
 <tr>
 <td width="50%">
-<h3>Predicción de demanda 💹</h3>
+<h3>Demand predictions 💹</h3>
 <div>
 <a href="https://github.com/pabloing93/bank-suscribes-predictions" target="_blank"><img src="https://github.com/pabloing93/pabloing93/assets/32267303/7c061947-e057-491c-b5b8-58e5e33652ac" width="100%" alt="Curso básico android"></a>
-<p align="justify">El área de marketing de un banco requiere predecir la demanda de su servicio de depósito de dinero a plazo. Quiénes son sus clientes interesados incluso antes de establecer el contacto. Con esto podemos lograr ofrecer el servicio más adecuado para cada cliente y automatizar el proceso.</p>
+<p align="justify">We are committed to making a difference in the bank's marketing area through the implementation of solutions that allow them to predict customer demand and offer the best service using Data Science and Machine Learning.</p>
 <a href="https://github.com/pabloing93/bank-suscribes-predictions" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-FC911C?style=for-the-badge&logo=github&logoColor=white">
 </a>
