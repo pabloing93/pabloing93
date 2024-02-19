@@ -55,10 +55,10 @@ I'm currently developing my hard skills by working on challenging projects to ga
 </div>                                                            
 </td>
 <td width="50%">
-<h3>Bot de trading 🤖</h3>
+<h3>Trading Bot 🤖</h3>
 <div>                                       
 <a href="https://github.com/pabloing93/Trading-Robot" target="_blank"><img src="https://github.com/pabloing93/pabloing93/assets/32267303/b331ea4a-3e22-46a0-adce-c9f8d80e4398" width="100%" alt="Curso arquitectura MVVM"></a>
-<p align="justify">Bot de inversiones en Bitcoin desarrollado con Python, Pandas, APIs y otras librerías. Utilizamos web scraping para obtener información y algoritmos de trading y estadística descriptiva para apoyar la toma de decisiones de compra o venta de criptomonedas el objetivo de generar ganancias.</p>
+<p align="justify">Bitcoin investor bot that helps you get the latest financial information and apply the best decisions. Based on trading algorithms and statistics strategies for buying and selling virtual coins to make profits.</p>
 </div>                                                             
 <a href="https://github.com/pabloing93/Trading-Robot" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-1A3467?style=for-the-badge&logo=github&logoColor=white">
