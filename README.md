@@ -1,5 +1,6 @@
 <h1 style="margin: 10px 0px">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&vCenter=true&width=500&height=70&duration=4000&pause=3000&lines=Data+Scientist+🤓" />
+<!--     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&vCenter=true&width=500&height=70&duration=4000&pause=3000&lines=Data+Scientist+🤓" /> -->
+    Full Stack Data Scientist 🤓
 </h1>
 
 #  About Me:
